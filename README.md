@@ -1,2 +1,5 @@
-# dev-class
-Atividades desenvolvidas na disciplina de Lógica de Programação e Algoritmos
+# Dev Class
+
+Códigos desenvolvidos na disciplina de Algoritmos e Lógica de Programação
+
+* Linguagem: C++
